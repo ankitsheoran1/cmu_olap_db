@@ -25,7 +25,7 @@ The architecture of query flow in a database management system (DBMS) involves s
 - **I/O Service**: Manages block requests from the execution engine, retrieving requested data from the object store.
 - **Catalog**: Maintains data locations and metadata, facilitating communication across all DBMS components except the front-end.
 
-![Database Architecture Diagram](../cmu_olap_db/olap_cmu_1.png "Database Architecture - CMU Course")
+![Database Architecture Diagram](./olap_cmu_1.png "Database Architecture - CMU Course")
 
 ### Data Classification
 Data within a DBMS is categorized into:
